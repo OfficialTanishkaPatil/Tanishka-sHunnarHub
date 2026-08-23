@@ -1,0 +1,6 @@
+{
+  "name": "HunarHub",
+  "description": "Digital Marketplace empowering local micro-entrepreneurs, artisans, potters, cobblers, and tailors with bookings, catalog showcase, and business management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
